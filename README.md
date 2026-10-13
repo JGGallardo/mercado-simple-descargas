@@ -4,7 +4,7 @@ Instaladores oficiales y acceso a la app web de Mercado Simple. El código fuent
 
 [Ir a la página de instalación de Mercado Simple](https://mercado-simple-production.up.railway.app/descargas).
 
-- [Windows 1.1.4, 64 bits](https://github.com/JGGallardo/mercado-simple-descargas/releases/tag/v1.1.4): instalador para Windows 10/11, con Plan Base independiente, servidor del comercio y facturación directa desde la PC a ARCA.
+- [Windows 1.1.5, 64 bits](https://github.com/JGGallardo/mercado-simple-descargas/releases/tag/v1.1.5): instalador para Windows 10/11, con Plan Base independiente, servidor del comercio y facturación directa desde la PC a ARCA.
 - [Android 1.0.0](https://github.com/JGGallardo/mercado-simple-descargas/releases/tag/android-v1.0.0): APK firmado para Android 8 o posterior. Usa las mismas cuentas y permite configurar explícitamente nube o servidor local HTTPS.
 - iPhone/iPad: abrir Mercado Simple en Safari y elegir Compartir → Añadir a pantalla de inicio. No requiere App Store ni Apple Developer.
 
