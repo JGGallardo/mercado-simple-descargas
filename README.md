@@ -4,7 +4,7 @@ Instaladores oficiales y acceso a la app web de Mercado Simple. El código fuent
 
 [Ir a la página de instalación de Mercado Simple](https://mercado-simple-production.up.railway.app/descargas).
 
-- [Windows 1.1.13, 64 bits](https://github.com/JGGallardo/mercado-simple-descargas/releases/tag/v1.1.13): instalador para Windows 10/11. Elegí una vez **PC administradora** o **Caja**. Las cajas encuentran al equipo autorizado y vuelven a conectarse automáticamente, sin copiar direcciones ni certificados. Conserva Plan Base, la información del negocio y la facturación directa desde la PC a ARCA.
+- [Windows 1.1.14, 64 bits](https://github.com/JGGallardo/mercado-simple-descargas/releases/tag/v1.1.14): instalador para Windows 10/11. Elegí una vez **PC administradora** o **Caja**. Las cajas encuentran al equipo autorizado y vuelven a conectarse automáticamente, sin copiar direcciones ni certificados. Conserva Plan Base, la información del negocio y la facturación directa desde la PC a ARCA.
 - [Android 1.0.1](https://github.com/JGGallardo/mercado-simple-descargas/releases/tag/android-v1.0.1): APK firmado para Android 8 o posterior. Usa las mismas cuentas y permite elegir el acceso por internet o la conexión al equipo principal del comercio.
 - iPhone/iPad: abrir Mercado Simple en Safari y elegir Compartir → Añadir a pantalla de inicio. No requiere App Store ni Apple Developer.
 
@@ -17,3 +17,5 @@ Para operar sin internet en el comercio, la PC administradora debe estar encendi
 Cada release incluye el instalador y su SHA-256. La impresión directa NIIMBOT USB/Bluetooth desde Android no está incluida en esta primera versión móvil.
 
 Windows 1.1.13 permite que las empresas sin plan o con una prueba o suscripción vencida continúen con Plan Base. Conserva los datos y el historial, mantiene la vinculación de la PC administradora y reconoce una renovación aprobada. Las autorizaciones de cobro se administran por separado; el vencimiento no cancela un débito existente. Las suspensiones administrativas permanecen restringidas.
+
+Windows 1.1.14 corrige la actualización de la dirección local cuando Windows cambia la red de la PC administradora y muestra códigos de asistencia en la pantalla de recuperación si el inicio no se completa. Conserva los datos y sigue reintentando automáticamente.
