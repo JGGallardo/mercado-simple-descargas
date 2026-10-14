@@ -4,10 +4,12 @@ Instaladores oficiales y acceso a la app web de Mercado Simple. El código fuent
 
 [Ir a la página de instalación de Mercado Simple](https://mercado-simple-production.up.railway.app/descargas).
 
-- [Windows 1.1.10, 64 bits](https://github.com/JGGallardo/mercado-simple-descargas/releases/tag/v1.1.10): instalador para Windows 10/11, con Plan Base independiente, equipo principal del comercio y facturación directa desde la PC a ARCA.
+- [Windows 1.1.11, 64 bits](https://github.com/JGGallardo/mercado-simple-descargas/releases/tag/v1.1.11): instalador para Windows 10/11. Elegí una vez **PC administradora** o **Caja**. Las cajas encuentran al equipo autorizado y vuelven a conectarse automáticamente, sin copiar direcciones ni certificados. Conserva Plan Base, la información del negocio y la facturación directa desde la PC a ARCA.
 - [Android 1.0.1](https://github.com/JGGallardo/mercado-simple-descargas/releases/tag/android-v1.0.1): APK firmado para Android 8 o posterior. Usa las mismas cuentas y permite elegir el acceso por internet o la conexión al equipo principal del comercio.
 - iPhone/iPad: abrir Mercado Simple en Safari y elegir Compartir → Añadir a pantalla de inicio. No requiere App Store ni Apple Developer.
 
-Para operar sin internet en el comercio, el equipo principal debe estar encendido y autorizado, el celular conectado al Wi-Fi local y el certificado público configurado. La instalación realizada con acceso por internet conserva esa conexión; para trabajar en el local hay que elegir su equipo principal.
+Para actualizar Windows, instalá primero en la PC administradora y después en las cajas. No desinstales ni borres la información del negocio. La primera vinculación de una empresa con suscripción necesita Internet; Windows puede pedir permiso una vez para que las cajas accedan a la PC administradora.
+
+Para operar sin internet en el comercio, la PC administradora debe estar encendida y autorizada, y los equipos deben estar en la misma red local. La conexión local de celulares conserva su configuración actual y requiere el certificado público del equipo principal; la preparación automática de esta versión corresponde a Windows.
 
 Cada release incluye el instalador y su SHA-256. La impresión directa NIIMBOT USB/Bluetooth desde Android no está incluida en esta primera versión móvil.
